@@ -1,0 +1,14 @@
+
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±Üá øÿÿÿÿ8«ø¡…ä1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›Ûò‚ûÿÿÿÿ8¬ø¡…ä1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§ ›·ıÿÿÿÿ8¬ø¡…ä1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(“³±ûÿÿÿÿ8´ø¡…ä1
+I
+java:S1068"'Remove this unused "rus" private field.(±Üá øÿÿÿÿ8¿ø¡…ä1
+H
+java:S1068"&Remove this unused "en" private field.(›Ûò‚ûÿÿÿÿ8¿ø¡…ä1
+G
+java:S1068"%Remove this unused "Z" private field.(¡ÀÂæıÿÿÿÿ8¿ø¡…ä1
+L
+java:S1068"*Remove this unused "cypher" private field.(§ ›·ıÿÿÿÿ8Àø¡…ä1
